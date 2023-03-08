@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user role="administrator" type="interno">
+        <username>Username1</username>
+        <client_token>abcplaudzrbcy37c</client_token>
+        <client_secret>0cxDE3LE0000=</client_secret>
+    </user>
+    <user role="user" type="interno">
+        <username>Username2</username>
+        <client_token>123plaudzrbcy37c</client_token>
+        <client_secret>0cxDE3LE1234=</client_secret>
+    </user>
+    <user role="staff" type="externo">
+        <username>pepe</username>
+        <client_token>000plaudzrbcy37c</client_token>
+        <client_secret>0cxDE3LEabcd=</client_secret>
+    </user>
+</users>
